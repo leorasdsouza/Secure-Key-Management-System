@@ -91,7 +91,8 @@ assert shared_key_a == shared_key_b, "Shared keys do not match!"
 ```
 
 ## How to Run the Code
-Click the **"Open in Colab"** button below
+Click the **"Open in Colab"** button 
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leorasdsouza/Secure-Key-Management-System/blob/main/Secure_Key_Management_System.ipynb)
 
 #### **Option 2: Run Locally**
